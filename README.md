@@ -69,3 +69,10 @@ Para aprofundar mais sobre o conteúdo tem estes artigos da Wikípedia:
 <a href="https://pt.wikipedia.org/wiki/Competi%C3%A7%C3%B5es_mistas">Competições Mistas</a>
 
 <a href="https://pt.wikipedia.org/wiki/Promo%C3%A7%C3%A3o_e_Despromo%C3%A7%C3%A3o">Promoção e Despormoção</a>
+
+## Pontos Importantes
+No caso da probabilidade é calculado o numero de vagas vezes 100 (N*100) diante dos cenarios em que o mesmo disponha, tanto para as primeiras posições, como para as ultimas, caso se houver bagas intermediarias o certame tambem será aplicado, futuramente isso será demonstrado aqui.
+
+No caso do Osasco Audax, o mesmo está representado com o nome de Osasco apenas para evitar o porblema de conflito com o x minusculo do nome em relação ao mesmo caractere correspondente do confronto, mas se for X maiusculo o sistema entende por completo.
+
+O mesmo poderá ser rodado em qualquer plataformas de desenvolvimento como o Virtual Studio Code e o Pycharm, além do Colab se for em nuvem.
