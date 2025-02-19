@@ -20,4 +20,13 @@ Todos os dez participantes jogam entre si em 9 (nove) rodadas e ao final do mesm
 
 Para a simulação dos resultados foi utilizado um dado de 6 (seis) faces para anotar os cenarios dos jogos a serem dispitados com base o que foi explicado acima, no exemplo foi anotado os resultados da 5 rodada em diante:
 
-https://private-user-images.githubusercontent.com/67759198/414853408-35994dc1-fc45-46c3-a71f-61ecf781e069.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5ODk5ODAsIm5iZiI6MTczOTk4OTY4MCwicGF0aCI6Ii82Nzc1OTE5OC80MTQ4NTM0MDgtMzU5OTRkYzEtZmM0NS00NmMzLWE3MWYtNjFlY2Y3ODFlMDY5LlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE5VDE4MjgwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3NDNhMWNiOTViNjk3NjYzMWNiNjljNDMwOWQ1ODViZjE3OThhYzkyZGE2ODA2Mzc3ZDVjZDFhN2U5YjU1NGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nwsCvxyuuhtivRiDV5ZvYPYkaAd1h8wS1Jj7dUFrMcI
+Análise ao termino da 5ª rodada
+![Image](https://github.com/user-attachments/assets/35994dc1-fc45-46c3-a71f-61ecf781e069)
+
+Análise ao termino da 6ª rodada
+
+Análise ao termino da 7ª rodada
+
+Análise ao termino da 8ª rodada
+
+Análise ao termino da 9ª rodada
