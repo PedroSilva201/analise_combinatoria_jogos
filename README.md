@@ -52,7 +52,7 @@ No caso das funções times, pontuação e lista_times, sendo que o primeiro e o
 
 Aqui tambem será dispobilizados códigos das tabelas das divisões inferiores do Campeonato Paulista de 2025, das series A2, A3 e A4, respectivamnete, segunda, terceira e quarta divisão estadual com os jogos para a realização dos calculos de probabilidade.
 
-Creditos: a grande parte do código foi gerado pelo Gemini e alguns elementos pelo Chat GPT e em alguns casos foi utilizado de forma manual, criando ou copiando tabelas geradas na internt como neste site <a href="https://tabelas.fiatjaf.com/"> Do Gerador de tabelas de todos contra todos</a>
+Creditos: a grande parte do código foi gerado pelo Gemini e alguns elementos pelo Chat GPT e em alguns casos foi utilizado de forma manual, criando ou copiando tabelas geradas na internt como neste site <a href="https://tabelas.fiatjaf.com/"> Do Gerador de tabelas de todos contra todos</a> por exemplo, no caso do exemplo das cores fiz de forma manual devido ao dominio que tenho por anos.
 
 Para aprofundar mais sobre o conteúdo tem estes artigos da Wikípedia:
 
