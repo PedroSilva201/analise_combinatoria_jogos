@@ -21,9 +21,12 @@ Todos os dez participantes jogam entre si em 9 (nove) rodadas e ao final do mesm
 Para a simulação dos resultados foi utilizado um dado de 6 (seis) faces para anotar os cenarios dos jogos a serem dispitados com base o que foi explicado acima, no exemplo foi anotado os resultados da 5 rodada em diante:
 
 Análise ao termino da 5ª rodada
+
 ![Image](https://github.com/user-attachments/assets/35994dc1-fc45-46c3-a71f-61ecf781e069)
 
 Análise ao termino da 6ª rodada
+
+![Image](https://github.com/user-attachments/assets/e3bfd753-ced0-492f-b120-5738cc270223)
 
 Análise ao termino da 7ª rodada
 
