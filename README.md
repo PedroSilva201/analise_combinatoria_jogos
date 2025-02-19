@@ -43,3 +43,29 @@ Análise ao termino da 9ª rodada
 Detalhes do código:
 
 ![Image](https://github.com/user-attachments/assets/5bb1f0df-dd94-43ad-b76f-3870f7e71e24)
+
+No segundo for existe uma funcionalidade que calcula o numero de vagas nas posições superiores, neste exemplo é utilizado o numero 8, podendo ser qualuqer um como exemplo os numeros 2, 4 ou 6.
+
+Da mesma forma que no for seguinte que calcula quem está nas posições inferiores, sobretudo na zona de rebaixamento, o numero neste caso é 2, mas pode ser 1, 3 ou 4 por exemplo.
+
+No caso das funções times, pontuação e lista_times, sendo que o primeiro e o ultimo são identicos, no caso da pontuação é aceescido :0 para efeito dos calculos no inicio, neste exemplo utiliza-se dez equipes, podendo ser usado 12, 14 ou 16
+
+Aqui tambem será dispobilizados códigos das tabelas das divisões inferiores do Campeonato Paulista de 2025, das series A2, A3 e A4, respectivamnete, segunda, terceira e quarta divisão estadual com os jogos para a realização dos calculos de probabilidade.
+
+Creditos: a grande parte do código foi gerado pelo Gemini e alguns elementos pelo Chat GPT e em alguns casos foi utilizado de forma manual, criando ou copiando tabelas geradas na internt como neste site <a href="https://tabelas.fiatjaf.com/"> Do Gerador de tabelas de todos contra todos</a>
+
+Para aprofundar mais sobre o conteúdo tem estes artigos da Wikípedia:
+
+<a href="https://pt.wikipedia.org/wiki/Campe%C3%A3o">Campeão</a>
+
+<a href="https://pt.wikipedia.org/wiki/Campeonato">Campeonato</a>
+
+<a href="https://pt.wikipedia.org/wiki/Competi%C3%A7%C3%A3o_esportiva">Competição Esportiva</a>
+
+<a href="https://pt.wikipedia.org/wiki/Competi%C3%A7%C3%B5es_de_todos_contra_todos">Competições de Todos Contra Todos</a>
+
+<a href="https://pt.wikipedia.org/wiki/Competi%C3%A7%C3%B5es_eliminat%C3%B3rias">Competições Eliminatórias</a>
+
+<a href="https://pt.wikipedia.org/wiki/Competi%C3%A7%C3%B5es_mistas">Competições Mistas</a>
+
+<a href="https://pt.wikipedia.org/wiki/Promo%C3%A7%C3%A3o_e_Despromo%C3%A7%C3%A3o">Promoção e Despormoção</a>
