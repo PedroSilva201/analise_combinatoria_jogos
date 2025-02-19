@@ -30,6 +30,16 @@ Análise ao termino da 6ª rodada
 
 Análise ao termino da 7ª rodada
 
+![Image](https://github.com/user-attachments/assets/aa1dce73-7f03-4339-82fd-aa793af77894)
+
 Análise ao termino da 8ª rodada
 
+![Image](https://github.com/user-attachments/assets/5271447b-4b41-4190-a8a5-cd93534b34d8)
+
 Análise ao termino da 9ª rodada
+
+![Image](https://github.com/user-attachments/assets/617ba377-b540-4126-8f3f-66766d54a038)
+
+Detalhes do código:
+
+![Image](https://github.com/user-attachments/assets/5bb1f0df-dd94-43ad-b76f-3870f7e71e24)
