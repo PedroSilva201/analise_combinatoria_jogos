@@ -1,3 +1,7 @@
+# Apresentação do Projeto
+
+Este projeto consiste na montagem de um programa que analisa os resultados das partidas de futebol, podendo ser adaptado ao numero de participantes bem como o numero de jogos que cada equipe terá e as rodadas de um campeonato, podendo ser aplicado em exemplos da vida real.
+
 ## Análise combinatória de jogos
 
 Em competições esportivas das mais variadas modalidades, sobretudo no futebol é muito comum os calculos de probabilidade para que uma equipe tenha determinadas chances de conseguir uma classificação ou eliminação de determinado campeonato, mas para isso é necessario entender que nem sempre todos os campeonatos são disputados em pontos corridos ou no sistema de todos contra todos bem como as copas não são disputados exclusivamente no formato eliminatório, o popular "mata-mata", em alguns casos quando não se enquadra nenhum ou nem outro é considerado sistema misto.
